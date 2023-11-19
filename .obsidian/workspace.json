@@ -120,19 +120,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "9611e106434a46cf",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Data Structures and Algorithms/Big O.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,19 +137,20 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "obsidian-excalidraw-plugin:Create new drawing": true
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
   "active": "515f685cb8a04c55",
   "lastOpenFiles": [
-    "Data Structures and Algorithms/Big O.md",
     "Data Structures and Algorithms/Algorithms.md",
+    "Data Structures and Algorithms/Big O.md",
+    "DSA.md",
     "images/linear-growth-complexity.png",
     "README.md",
     "images/screenshot.png",
     "images",
     "LICENSE",
-    "Untitled.md",
     "Pasted image 20231119225751.png",
     "Excalidraw/Drawing 2023-11-19 22.40.01.excalidraw.md",
     "Excalidraw",
