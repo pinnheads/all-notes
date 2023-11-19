@@ -27,7 +27,7 @@ function sum_char_codes(n: string): number {
 	- If the string is of length 5 the loop runs 5 times, if the length is 10 then the loop runs 10 times and so on.
 	- This shows a linear growth in the time and space complexity and is donated by O(N)
 	  
-   ![[../images/linear-growth-complexity.png]]
+   ![O(N)](../images/linear-growth-complexity.png)
 
 #### Some more examples
 
