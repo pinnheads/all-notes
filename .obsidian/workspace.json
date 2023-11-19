@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5153c98b9b612da5",
@@ -140,21 +141,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
   "active": "515f685cb8a04c55",
   "lastOpenFiles": [
+    "Data Structures and Algorithms/Big O.md",
     "Data Structures and Algorithms/Algorithms.md",
     "images/linear-growth-complexity.png",
     "README.md",
-    "Data Structures and Algorithms/Big O.md",
     "images/screenshot.png",
     "images",
     "LICENSE",

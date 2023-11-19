@@ -1,6 +1,6 @@
 > #algorithms #bigO #CS #data-structures 
 
-Before learning about [[Algorithms]] we need to learn about a concept called Big O. This is how we measure or explain the time and performance of our algorithms.
+Before learning about [Algorithms](Algorithms.md) we need to learn about a concept called Big O. This is how we measure or explain the time and performance of our algorithms.
 
 ## What is Big O?
 
@@ -27,7 +27,7 @@ function sum_char_codes(n: string): number {
 	- If the string is of length 5 the loop runs 5 times, if the length is 10 then the loop runs 10 times and so on.
 	- This shows a linear growth in the time and space complexity and is donated by O(N)
 	  
-   ![[linear-growth-complexity.png]]
+   ![[../images/linear-growth-complexity.png]]
 
 #### Some more examples
 
