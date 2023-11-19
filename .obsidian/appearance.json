@@ -1,0 +1,11 @@
+{
+  "accentColor": "#00fbff",
+  "interfaceFontFamily": "Cascadia Code",
+  "baseFontSize": 12,
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "theme": "obsidian",
+  "showViewHeader": false
+}
