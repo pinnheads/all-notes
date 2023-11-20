@@ -5,7 +5,7 @@
   "textFontFamily": "JetBrainsMono Nerd Font Mono",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "baseFontSizeAction": true,
-  "translucency": false,
+  "translucency": true,
   "theme": "obsidian",
   "showViewHeader": false
 }

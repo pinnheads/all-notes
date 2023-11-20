@@ -1,5 +1,12 @@
-> #algorithms #bigO #CS #data-structures 
-
+---
+tags:
+  - "#algorithms"
+  - "#bigO"
+  - "#dsa"
+  - "#CS"
+  - data-structures
+date: 2023-11-19
+---
 Before learning about algorithms we need to learn about a concept called Big O. This is how we measure or explain the time and performance of our algorithms.
 
 ![Big O Complexity Chart](https://he-s3.s3.amazonaws.com/media/uploads/ece920b.png)

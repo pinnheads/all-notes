@@ -1,3 +1,5 @@
 # Excluded files
 /Excalidraw/
 Untitled.*
+.images/
+_*/
